@@ -7,6 +7,7 @@
   * ![image](https://user-images.githubusercontent.com/96944114/154039157-912e067a-351f-45d8-ac3f-4a51be6349b4.png)
   * 이번 exp에서 학습했던 모델의 결과 이미지와 그래프 이미지를 올려둔 폴더 입니다. 
 
+* ![image](https://user-images.githubusercontent.com/96944114/154010289-72a59423-7480-4110-95ec-c4ca08bf26b5.gif)
 
 | case. | 시도한 방법, 변경점  |
 | --- | --- |

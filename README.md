@@ -1,10 +1,9 @@
-# AIFFLE_EXP
+# AIFFLE_EXPLORATION 
 
-* 이 Repositories 에는 21.12.20부터 6개월 동안 진행 될, exploration 의 미니 프로젝트 결과물이 올라올 예정입니다.
+ <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
-* 이것저것 하고싶은건 많겠지만, 제 능력이 되는대로, 할 수 있는 만큼 열심히 해 볼 생각입니다:D  잘 부탁드립니다..!
+* 이 Repositories 에는 22년 1월 4일 부터 3월 14일까지 AIFFEL Exploration 과정에서 진행하였던 결과물을 업로드 합니다. 
 
+- AIFFEL 자체 LMS는 Jupyter Notebook을 사용합니다. 
 
-ps. 이 readme 를 지나가다가 보고 계실 당신, 혹시.. 주피터 노트북에서 작성한 내부 링크를 깃허브에서도 사용 하고 싶은데 방법을 모르겠어요..
-
-혹시 알고 계시다면.. 연락 부탁드립니다..... 
+- 프로젝트 안에는 구현 코드와 그에 대한 설명이 포함되어 있습니다. 
